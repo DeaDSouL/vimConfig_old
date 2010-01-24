@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/deadsoul/.vim'
+let g:netrw_dirhist_2='/var/lib/tomcat6/webapps/ROOT/knet'
+let g:netrw_dirhist_3='/var/lib/tomcat6/webapps/ROOT/knet/META-INF'
+let g:netrw_dirhist_4='/home/deadsoul/Desktop/git/.vim/.git'
